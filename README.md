@@ -1,7 +1,7 @@
 ### Archive (10,000 pcs, 6.85 GB unpacked) wallet.dat files for sale $1000
 
 The archive contains 10,000 wallet.dat files with different balances from 0 to 36k BTC<br>
-It contains all the wallets from this table [LostWallets](https://github.com/phrutis/LostWallets?tab=readme-ov-file#walletdat-addresses-table) as well as many others.
+It contains all the wallets from this table [LostWallets](https://github.com/phrutis/LostWallets?tab=readme-ov-file#walletdat-addresses-table) as well as many others.<br>
 There are ~500 different wallets in total.<br>
 The archive is not sorted, sold as is.<br>
 Wallets are password-protected and require a password!
