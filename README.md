@@ -9,6 +9,7 @@ By adding to Bitcoin Core you do not need to wait 3-6 hours for indexing for eac
 To get started quickly, you must have all the blocks loaded.<br>
 There are hints for some wallet files.<br>
 Payment $1000 in BTC, write to telegram ```phrutis``` <br><br>
+
 Below is a list of archive wallets (adding in progress...)
 
 ![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/e3bbb96e-2043-47af-a9d6-c3a708b5dfe5)
@@ -153,30 +154,33 @@ Below is a list of archive wallets (adding in progress...)
 
 ![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/8f83ba01-5e0a-47f3-b79f-bc8d197b576a)
 
+<hr>
+
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/d2119bf0-2792-4050-8d18-56e7452f3abc)
 
 <hr>
 
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/708a3e05-d954-4c5a-9015-11966cf2ba04)
 
 <hr>
 
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/746c439c-9eeb-435b-a837-d38b88ea16e6)
 
 <hr>
 
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/bf7d60f1-d2fb-492d-b201-ada2a1600aa2)
 
 <hr>
 
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/0a394678-aa10-4499-9e88-f3f39923070c)
 
 <hr>
 
-
-
-<hr>
-
-
+![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/e7f1813b-c7b1-4510-9e7a-4dbfd4c3a1fc)
 
 <hr>
 
-
+![Untitled](https://github.com/phrutis/wallet.dat/assets/140947743/bb36f2ac-0574-4645-a4ad-5f659701a7fb)
 
 <hr>
 
