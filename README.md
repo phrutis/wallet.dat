@@ -1,6 +1,7 @@
 ### Archive wallet.dat files for sale $1000
 
 Each wallet is tested to work in Bitcoin core with full blocks.<br>
+Satoshi were sent to many wallets, coins arrived<br>
 In the archive, each wallet has a hash for brute in hashcat or organize your own pool hashtopolis<br>
 The main advantage of the archive:<br>
 Wallets are sorted by balance and indexed.<br>
