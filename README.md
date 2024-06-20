@@ -8,7 +8,7 @@ Wallets are sorted by balance and indexed.<br>
 By adding to Bitcoin Core you do not need to wait 3-6 hours for indexing for each wallet.<br>
 To get started quickly, you must have all the blocks loaded.<br>
 There are hints for some wallet files.<br>
-Payment $1000 in BTC, write to telegram ```phrutis``` <br><br>
+Payment $2000 in BTC, write to telegram ```phrutis``` <br><br>
 
 Below is a list of archive wallets (adding in progress...)
 
