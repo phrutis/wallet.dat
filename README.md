@@ -10,7 +10,10 @@ To get started quickly, you must have all the blocks loaded.<br>
 There are hints for some wallet files.<br>
 Payment $2000 in BTC, write to telegram ```phrutis``` <br><br>
 
-Below is a list of archive wallets (adding in progress...)
+### Wallet list in archive (adding in progress...)
+
+
+<hr>
 
 ![wallet.dat](https://github.com/phrutis/wallet.dat/assets/140947743/e3bbb96e-2043-47af-a9d6-c3a708b5dfe5)
 
