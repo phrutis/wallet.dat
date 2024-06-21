@@ -1,5 +1,10 @@
 ### Archive wallet.dat files for sale $2000
 
+```
+All wallets with a forgotten (lost) password!
+To use coins you need to choose a password.
+```
+
 Each wallet is tested to work in Bitcoin core with full blocks.<br>
 Satoshi were sent to many wallets, coins arrived<br>
 In the archive, each wallet has a hash for brute in hashcat or organize your own pool hashtopolis<br>
