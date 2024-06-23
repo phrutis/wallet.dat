@@ -19,7 +19,7 @@ Payment $2000 in BTC, write to telegram ```phrutis``` <br><br>
 | # | Wallet |  | # | Wallet |  | # | Wallet |
 |:--|:--------|:-|:--|:--------|:-|:--|:--------|
 | 1 | [31000.07426868 BTC](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 101 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 201 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
-| 2 | [12600.30372986 BTC](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 102 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 202 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
+| 2 | [12600.30372986 BTC](https://github.com/phrutis/wallet.dat#wallet-12600.30372986-btc) |  | 102 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 202 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
 | 3 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 103 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 203 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
 | 4 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 104 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 204 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
 | 5 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 105 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |  | 205 | [1234](https://github.com/phrutis/wallet.dat#wallet-3100007426868-btc) |
