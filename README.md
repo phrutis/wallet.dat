@@ -1,4 +1,4 @@
-# Archive wallet.dat files for sale $2000
+# Archive wallet.dat files for sale $1000
 
 > [!WARNING]
 > All wallets with a forgotten (lost) password!<br>
@@ -13,7 +13,7 @@ Wallets are sorted by balance and indexed.<br>
 By adding to Bitcoin Core you do not need to wait 3-6 hours for indexing for each wallet.<br>
 To get started quickly, you must have all the blocks loaded.<br>
 There are hints for some wallet files.<br>
-Payment $2000 in BTC, write to telegram ```phrutis``` <br><br>
+Payment $1000 in BTC, write to telegram ```phrutis``` <br><br>
 
 # Wallet list in archive:
 
