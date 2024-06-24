@@ -1,4 +1,4 @@
-### Archive wallet.dat files for sale $2000
+# Archive wallet.dat files for sale $2000
 
 > [!WARNING]
 > All wallets with a forgotten (lost) password!<br>
@@ -15,7 +15,7 @@ To get started quickly, you must have all the blocks loaded.<br>
 There are hints for some wallet files.<br>
 Payment $2000 in BTC, write to telegram ```phrutis``` <br><br>
 
-### Wallet list in archive (adding in progress...)
+# Wallet list in archive:
 
 
 ### Wallet 31000.07426868 BTC
