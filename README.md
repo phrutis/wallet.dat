@@ -13,5 +13,7 @@ There are hints for some wallet files.<br>
 ![Untitled](https://github.com/phrutis/wallet.dat/assets/140947743/2577a74f-5b2a-4d31-b552-639154472bd9)<br>
 Compressed archive Megapack 1.6 GB (unpacked 6.86 GB)<br>
 I send the archive via telegram after payment<br>
-Buy archive write to telegram ```@phrutis``` <br><br>
+Buy archive write to telegram ```@phrutis``` <br>
+
+Those who need guarantees can split the archive into parts and pay in installments.<br>
 
