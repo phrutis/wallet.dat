@@ -1,4 +1,4 @@
-# Archive 10,000+ wallet.dat files for sale $1000
+# Archive 10,000+ wallet.dat files for sale $5000
 
 > [!WARNING]
 > All wallets with a forgotten (lost) password!<br>
